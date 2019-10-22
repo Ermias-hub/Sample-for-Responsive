@@ -1,0 +1,125 @@
+.fieldset1{
+    margin-left: -2px;
+    width: 90%;
+    padding-bottom: 40px;
+    border-style: solid;
+    background-color: rgb(173, 127, 127);
+    border-radius: 20px;
+}
+.fieldset2{
+    margin: 20px 0 0 0;
+    padding: 20px;
+    width: 85%;
+    height: 20%;
+    border-style: solid;
+    background-color: rgb(234, 238, 22);
+    border-radius: 20px;
+}
+.fieldset3{
+    margin: 40px 0 0 55px;
+    padding: 20px;
+    width: 45%;
+    height: 20%;
+    border-style: solid;
+    background-color: rgb(21, 196, 219);
+    border-radius: 20px;
+}
+.fieldset4{
+    margin: 40px 0 0 55px;
+    padding: 20px;
+    width: 45%;
+    height: 20%;
+    border-style: solid;
+    background-color: #d0d;
+    border-radius: 20px;
+}
+.fieldset5{
+    margin: 40px 0 0 55px;
+    padding: 20px;
+    width: 45%;
+    height: 20%;
+    border-style: solid;
+    background-color: rgb(253, 8, 8);
+    border-radius: 20px;}
+
+@media only screen and (min-width: 500px){
+    .fieldset1 {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 1350px;
+    background-color: #ddd;}
+    .fieldset2{
+        margin: 10px 0 10px 13px;
+        padding: 10px;
+        width: 90%;
+        height: 100px;
+        background-color: #edc;
+    }
+    .fieldset3{
+        margin-left: 25%;
+        width: 40%;
+        height: 300px;
+        background-color: #e0c;
+    }
+    .fieldset4{
+        margin-left: 25%;
+        width: 40%;
+        height: 300px;
+        background-color: #00c;
+        }
+    .fieldset5{
+        margin-left: 25%;
+        width: 40%;
+        height: 300px;
+        background-color: rgb(204, 204, 238);
+    }
+    }
+@media only screen and (min-width: 700px) {
+    .fieldset1{
+    margin: 0;
+    padding: 1%;
+    width: 97%;
+    height: 600px;
+    background-color: #afd;
+    }
+    .fieldset2{
+        width: 90%;
+    }
+    .fieldset3, .fieldset4, .fieldset5{
+        margin: 20px;
+        width: 70%;
+        height: 60px;
+    }
+    }
+@media only screen and (min-width: 1000px){
+    .fieldset1{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 630px;
+        background-color: #fd0;}
+    .fieldset2{
+        margin: 20px;
+        padding: 0;
+        width: 97%;
+        height: 140px;
+        border-style: solid;
+        background-color: rgb(240, 13, 13);
+        border-radius: 20px;}
+    .fieldset3, .fieldset4, .fieldset5{
+        display: inline;
+        margin: 25px 0 0 70px;
+        padding: 0;
+        width: 25%;
+        height: 250px;
+        border-style: solid;
+        background-color: rgb(20, 243, 31);
+        border-radius: 20px;}
+        }
+    .fieldset4{
+        background-color: pink;
+    }
+    .fieldset5{
+        background-color: purple;
+    }
