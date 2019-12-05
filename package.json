@@ -1,0 +1,19 @@
+{
+  "name": "myresponsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ermias-hub/Sample-for-Responsive.git"
+  },
+  "author": "Eru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ermias-hub/Sample-for-Responsive/issues"
+  },
+  "homepage": "https://github.com/Ermias-hub/Sample-for-Responsive#readme"
+}
